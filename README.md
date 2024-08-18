@@ -10,9 +10,9 @@
 
 🔭  Working on a generative AI web application to effectively iterate on creative and academic texts
 
-🌱  Learning how to write better Typescript and integrate HuggingFace models into React web applications
+🌱  Learning how to write better Typescript and how to conduct better decoding strategies for large language model outputs
 
-💬  Chatting to people about anything web development, LLMs, venture or cybersecurity related!
+💬  Chatting with people about anything web development, AI/ML, venture, creative writing, or cybersecurity related!
 
 ## Contact Me
 - [Email](mailto:alexis.echano@gmail.com)

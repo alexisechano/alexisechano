@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋🏼 I'm Alexis Echano!
+
+### Currently @ Palo Alto Networks, Previously @ Stanford, Meta, PearVC, Various Startups
+
+- 🔭 I’m currently working on a generative AI application to effectively iterate on creative and academic texts
+- 🌱 I’m currently learning how to write better Typescript and integrate HuggingFace models into React web applications
+- 💬 Ask me about anything web development, LLM or cybersecurity related!
 
 <!--
 **alexisechano/alexisechano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

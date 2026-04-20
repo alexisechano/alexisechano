@@ -2,9 +2,7 @@
 
 📍  San Francisco Bay Area
 
-💼  Currently @ Palo Alto Networks
-
-⚡  Previously @ Stanford, Meta, PearVC + Various Startups
+⚡  Previously @ Stanford, Palo Alto Networks, Meta, PearVC + Various Startups
 
 ## Currently...
 
